@@ -9,3 +9,5 @@ __See:__
 [Writeapp.org Official Website](http://writeapp.org)
 
 We're building on top of CodeIgniter. Stay tuned.
+
+Help choose a license. Become a contributor.
